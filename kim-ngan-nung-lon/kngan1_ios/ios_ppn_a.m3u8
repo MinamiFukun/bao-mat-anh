@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:6
+## Generated with https://github.com/shaka-project/shaka-packager version v3.4.2-c819dea-release
+#EXT-X-TARGETDURATION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MAP:URI="ios_ppn_a_init.png"
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="mfvideo_ppn",IV=0x9ded613390b53c5e4fa3b24e926b8bd8,KEYFORMAT="identity"
+#EXTINF:3.000,
+ios_ppn_a_1.png
+#EXT-X-ENDLIST
